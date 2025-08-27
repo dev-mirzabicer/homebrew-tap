@@ -1,8 +1,8 @@
 class TreeTxt < Formula
   desc "Interactive file selector and codebase exporter"
   homepage "https://github.com/dev-mirzabicer/tree-txt"
-  url "https://github.com/dev-mirzabicer/tree-txt/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "sha256-placeholder" # This will be updated by the CI/CD pipeline
+  url "https://github.com/dev-mirzabicer/tree-txt/archive/refs/tags/v0.0.1.tar.gz"
+  sha256 "0000000000000000000000000000000000000000000000000000000000000000" # This will be updated by the CI/CD pipeline
   license "MIT"
   head "https://github.com/dev-mirzabicer/tree-txt.git", branch: "main"
 
